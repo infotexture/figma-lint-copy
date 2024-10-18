@@ -1,0 +1,9 @@
+{
+  "_meta": {
+    "description": "This word list is used by the Figma plugin to detect and replace terms.",
+    "note": "List plural forms before singular forms to avoid double-counting."
+  },
+  "leverage": "Replace with 'take advantage of'.",
+  "utilize": "Replace with 'use'.",
+  you are": "Use 'you're' for our voice and tone."
+}
